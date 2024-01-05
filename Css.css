@@ -1,0 +1,11 @@
+.BountyBoard:after
+
+.Bounty{
+    float:left;
+    width:100%;
+
+}
+
+body{
+    font-family: "Karma", sans-serif
+}
