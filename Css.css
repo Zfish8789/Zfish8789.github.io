@@ -6,7 +6,8 @@
 
 .Bounty{
     float:left;
-    width:20%;
+    width:500px;
+    margin: 1%;
 
 }
 
@@ -24,6 +25,7 @@
     padding-top: 60px;
     transition: 0.5s;
     margin-left: 0px;
+    margin-top: 0%;
 }
 
 .sidebarItem{
@@ -34,5 +36,5 @@
 body{
     background-color:lightgrey;
     font-family: "Karma", sans-serif;
-    margin-left: 20%;
+    margin-left: 22.5%;
 }

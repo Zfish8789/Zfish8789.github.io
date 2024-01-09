@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 877">
+    <rect x=0 y=0 width="200" height="877"
+    style="fill:rgb(92,156,212);" />
+    <rect x=430 y=0 width="250" height="140"
+    style="fill:rgba(146,208,80);" />
+    <rect x=430 y=140 width="250" height="800"
+    style="fill:rgb(250,250,250);" />
+    <polygon points="0,877 170,140 0,0 510,0 680,140 510,877" 
+    style="fill:grey"/>
+
+    <polygon points="500,20 630,130 570,130 440,20" style="fill:#00000" />
+    <polygon points="500,25 620,125 570,125 450,24" style="fill:#b35b24" />
+
+    <polygon points="425,20 555,130 495,130 365,20" style="fill:#000000" />
+    <polygon points="425,25 545,125 495,125 375,24" style="fill:#b35b24" />
+
+    <polygon points="350,20 480,130 420,130 290,20" style="fill:#000000" />
+    <polygon points="350,25 470,125 420,125 300,24" style="fill:#b35b24" />
+
+    <polygon points="275,20 405,130 345,130 215,20" style="fill:#000000" />
+    <polygon points="275,25 395,125 345,125 225,24" style="fill:#b35b24" />
+
+    <polygon points="200,20 330,130 270,130 140,20" style="fill:#000000" />
+    <polygon points="200,25 320,125 270,125 150,24" style="fill:#b35b24" />
+
+    <text x="190" y="190" style="font:SF Distant Galaxy; font-size:50">
+        Title of Choice
+    </text>
+
+    <text x="75" y="650" style="font:SF Distant Galaxy; font-size:30">
+        <tspan x="95" y="650">Row of text 1 </tspan>
+        <tspan x="95" y="690">Row of text 2 </tspan>
+        <tspan x="95" y="730">Row of text 3 </tspan>
+        <tspan x="95" y="770">Row of text 4 </tspan>
+    </text>
+
+    <text x="10" y="877" style="font:SF Distant Galaxy; font-size:25">
+        Contracter
+    </text>
+
+</svg>
