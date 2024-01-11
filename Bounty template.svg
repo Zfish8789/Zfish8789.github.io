@@ -34,6 +34,11 @@
         <tspan x="95" y="770">Row of text 4 </tspan>
     </text>
 
+    <text x="650" y="850" style="font:SF Distant Galaxy; font-size:70"
+     transform="rotate(-90 650 850)">
+     Price
+    </text>
+
     <text x="10" y="874" style="font:SF Distant Galaxy; font-size:25">
         Contracter
     </text>
