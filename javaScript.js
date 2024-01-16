@@ -1,5 +1,13 @@
+async function grap(file){
+    x = await fetch(file);
+    y = await x.text();
+    document.getElementById("title").innerHTML
+    return y;
+}
 
-var bounties = JSON.parse('{"Bounty":{"Title":"Unknown Creature","Price":"4000c","Difficutly":4,"Contracter":"Sep Pada Incorporated","Type":0,"row1":"An Unknown Creature is killing workers at our main C.W. Workshop","row2":"Payment will be recived when it is disposed of","row3":"It has killed numerous workers","row4":""}}');
+console.log("Running")
+
+var bounties = JSON.parse(grap("localBounties.json"));
 for(var x in bounties){
     var StringPart = '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 877">'+
     '<rect x=0 y=0 width="200" height="877" style="fill:rgb(92,156,212);" />'+

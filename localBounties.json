@@ -5,9 +5,9 @@
         "Difficutly":4,
         "Contracter":"Sep Pada Incorporated",
         "Type":0,
-        "row1":"An Unknown Creature is killing workers at our main C.W. Workshop",
-        "row2":"Payment will be recived when it is disposed of",
-        "row3":"It has killed numerous workers",
-        "row4":""
+        "row1":"An Unknown Creature is killing",
+        "row2": "workers at our main C.W. Workshop",
+        "row3":"Payment will be recived when it is disposed of",
+        "row4":"It has killed numerous workers"
     }
 }]
