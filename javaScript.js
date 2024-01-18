@@ -1,8 +1,8 @@
-function grap(url){
-    const xMLHttp = new XMLHttpRequest();
-    xMLHttp.open("GET", url)
-    xMLHttp.send()
-    return xMLHttp.responseText
+async function grap(file){
+    x = await fetch(file);
+    y = await x.text();
+    document.getElementById("title").innerHTML
+    return y;
 }
 
 console.log("Running")
